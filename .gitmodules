@@ -5,6 +5,3 @@
 [submodule "AntibodyTiters"]
 	path = AntibodyTiters
 	url = https://github.com/cran/AntibodyTiters
-[submodule "nuCpos"]
-	path = nuCpos
-	url = https://git.bioconductor.org/packages/nuCpos
